@@ -1,0 +1,88 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  sudo apt-get update
+    7  pwd
+    8  ls
+    9  ls --healp
+   10  ls --help
+   11  man ls
+   12  ls  | grep B
+   13  clear
+   14  ls | grep M
+   15  ls | grep musica
+   16  ls | grep B
+   17  ls
+   18  pwd
+   19  man pwd
+   20  cd 
+   21  pwd
+   22  cd :
+   23  ls
+   24  cd :
+   25  cd ..
+   26  cd alumno/
+   27  cd ..
+   28  pwd
+   29  ls
+   30  cd etc
+   31  ls
+   32  ls | grep up
+   33  ls ap*
+   34  ls up*
+   35  cd ..
+   36  cd home/
+   37  cd alumno/
+   38  touch miarchivo
+   39  ls
+   40  man touch
+   41  ls
+   42  ls -l
+   43  tree
+   44  mkdir principal
+   45  ls
+   46  mkdir principal/persona
+   47  tree
+   48  cd principal/
+   49  mkdir ../secundario
+   50  ls
+   51  cd ..
+   52  tree
+   53  cd principal/persona
+   54  ls
+   55  pwd
+   56  mkdir ../../secundario/alumno
+   57  ls
+   58  cd home/alumno
+   59  cd /home/alumno
+   60  ls
+   61  tree
+   62  cd principal/persona/
+   63  cd ../../secundario/alumno/
+   64  cd ../../principal/
+   65  uno/unoA
+   66  mkdir -p uno/unoA
+   67  ls
+   68  tree
+   69  mkdir -p app/{estilos,funciones/logica,funciones/variables}
+   70  tree
+   71  mkdir -p codigo/{java,c,php}/funtes
+   72  tree
+   73  rm -rf principal/estilos
+   74  tree
+   75  rm-rf app/estilos/
+   76  rm -rf app//estilos/
+   77  tree
+   78  cd ..
+   79  mkdir -p/dato{personales/publicos,personales/privados}/backup / {fiscales/afip,fiscales/arba}/pagos
+   80  mkdir -p/dato{personales/publicos,personales/privados}/backup , {fiscales/afip,fiscales/arba}/pagos
+   81* mkdir -p dato/{personales/publicos,personales/privados}/backup ,fiscales/afip,fiscales/arba}/pagos
+   82  tree
+   83  rm -rf dato/
+   84  tree
+   85  rm -rf fiscales
+   86  tree
+   87  history
+   88  history > historia.utn
