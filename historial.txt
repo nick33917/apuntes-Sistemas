@@ -1,0 +1,67 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  clear
+    7  firefox
+    8  tree
+    9  clear
+   10  mkdir -p pepe/{hola,chau,roberto}/locos
+   11  tree
+   12  rm -rf pepe
+   13  tree
+   14  pwd
+   15  tree
+   16  mkdir -p banfield/{jugadores{arquero,defensor,atacante}/sueldos,dirigentes{presidente,comisiondirectiva,empleados}/pagares}
+   17  tree
+   18  rm -rf banfield
+   19  tree
+   20  mkdir -p banfield/{jugadores/{arquero,defensor,atacante}/sueldos,dirigentes{presidente,comisiondirectiva,empleados}/pagares}
+   21  tree
+   22  rm -rf banfield
+   23  mkdir -p banfield/{jugadores/{arquero,defensor,atacante}/sueldos,dirigentes/{presidente,comisiondirectiva,empleados}/pagares}
+   24  tree
+   25  rm -rf banfield
+   26  tree
+   27  cd/publico
+   28  cd Descargas/
+   29  cd ..
+   30  pwd
+   31  clear
+   32  pwd
+   33  sudo su
+   34  sudo su -
+   35  history
+   36  sudo su
+   37  eco "hola consola"
+   38  echo "hola consola"
+   39  ls-l
+   40  ls -l
+   41  echo "Hola mundo consola">saludad.txt
+   42  ls
+   43  ls-l
+   44  ls -l
+   45  cat saludad.txt
+   46  echo "Borro lo anterior">saludad.txt
+   47  ls -l
+   48  cat saludad.txt 
+   49  echo "Continuando con lo anterior">>saludad.txt
+   50  cat saludad.txt 
+   51  md5sum saludad.txt
+   52  sha 
+   53  shasum
+   54  sahsum saludad.txt
+   55  shasum saludad.txt
+   56  echo "c9894c239ed3a6997c1456d0956d5dc339232f18">hash.txt
+   57  ls -l
+   58  cat hash.txt 
+   59  shasum saludad.txt>Hash.txt
+   60  ls -l
+   61  rm -rf hash.out
+   62  ls l
+   63  ls -l
+   64  rm -rf hash.txt 
+   65  ls
+   66  ls -l
+   67  history>historial.txt
